@@ -8,8 +8,8 @@ tegida contra entrada de valores inválidos.
 
 '''
 ===================================================================
-2 - Crie uma função que receberá um path para um arquivo .txt, o
-abrirá com "with open", e caso o arquivo não exista, irá criá-lo.
+2 - Crie uma função que receberá um path para um arquivo .txt, irá
+abrí-o em modo read, e caso o arquivo não exista, irá criá-lo.
 ===================================================================
 '''
 
@@ -23,7 +23,20 @@ Ela deve ser protegida contra entrada de valores inválidos e, caso
 as listas sejam de tamanhos diferentes, deve ser retornado uma men-
 sagem ao usuário.
 
-Exemplo:
+Exemplo 1:
+[1, 3, 4, 6]
+[2, 8, 11, 1]
+
+Output:
+[3, 11, 15, 7]
+
+
+Exemplo 2:
+[1, 5]
+[4, 2, 8]
+
+Output:
+"Tamanhos não compatíveis!"
 ===================================================================
 '''
 
