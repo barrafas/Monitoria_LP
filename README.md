@@ -9,7 +9,7 @@
 - **PDFs:** São os slides e documentos usados pelo professor durante as aulas.
 
 ## Entregas de listas:
-- ++Lista de Exceções:** Dia 27/08 (Como não temos acesso ao EClass ainda, a entrega da atividade não foi criada)
+- **Lista de Exceções:** Dia 27/08 (Como não temos acesso ao EClass ainda, a entrega da atividade não foi criada)
 
 
 ## Recursos úteis:
