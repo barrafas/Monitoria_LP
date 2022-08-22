@@ -54,3 +54,14 @@ O tipo de exceção lançada deve ser diferente para cada um dos três
 tipos de nomes inválidos. (Use raise Exception())
 ===================================================================
 '''
+
+'''
+===================================================================
+5 - Crie uma função fatorial para os números inteiros não negativos
+retorne o fatorial do número (exemplo 4!=24, 1!=1). Para criar essa 
+função não é permitido utilizar bibliotecas, apenas o python 
+padrão. Proteja a função para qualquer tipo de dados que seja
+diferente dos números inteiros não negativos (-5! = exceção).
+===================================================================
+
+'''
