@@ -5,8 +5,12 @@
 
 ## Conteúdos do repositório:
 - **Aulas .py:** São os arquivos de script produzidos nas aulas pelo professor Rafael Pinho;
-- **Listas Monitoria:** São as listas de exercício dadas pelos monitores (com soluções sendo postadas posteriormente);
+- **Listas Monitoria:** São as listas de exercício dadas pelos monitores (com soluções sendo postadas posteriormente). As listas devem ser entregues em um só arquivo, com cada questão sendo sua própria função (ou mais de uma, se precisar de funções auxiliares);
 - **PDFs:** São os slides e documentos usados pelo professor durante as aulas.
+
+## Entregas de listas:
+- **Lista de Exceções:** Dia 27/08 (Como não temos acesso ao EClass ainda, a entrega da atividade não foi criada)
+
 
 ## Recursos úteis:
 
