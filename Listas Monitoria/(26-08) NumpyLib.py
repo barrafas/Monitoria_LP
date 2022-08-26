@@ -41,7 +41,7 @@ def expandir(A):
 '''
 ===================================================================
 4 - Crie uma função numpy que dada uma matriz A de dimensão mxn. 
-Retorne um vetor um vetor coluna nx1 onde cada entrada i 
+Retorne um vetor um vetor coluna mx1 onde cada entrada i 
 corresponde ao menor valor da linha i.
 ===================================================================
 '''
