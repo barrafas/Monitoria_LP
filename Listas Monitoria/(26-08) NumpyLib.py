@@ -5,7 +5,7 @@ bidimensional numpy retorna um vetor unidimensional. Se a entrada é
 um vetor unidimensional retorne uma matriz diagonal com os 
 elementos do vetor. Caso contrário levante uma exceção ValueError.
 ===================================================================
-'''
+''' 
 
 def diagonalEspecial(D):
 	return
@@ -41,7 +41,7 @@ def expandir(A):
 '''
 ===================================================================
 4 - Crie uma função numpy que dada uma matriz A de dimensão mxn. 
-Retorne um vetor um vetor coluna 1xn onde cada entrada i 
+Retorne um vetor um vetor coluna nx1 onde cada entrada i 
 corresponde ao menor valor da linha i.
 ===================================================================
 '''
