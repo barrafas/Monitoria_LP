@@ -10,6 +10,8 @@
 
 ## Entregas de listas:
 - **Lista de Exceções:** Dia 27/08 (Como não temos acesso ao EClass ainda, a entrega da atividade não foi criada)
+- **Lista 1 de Numpy:** Dia 04/09
+- **Lista 2 de Numpy:** Dia 11/09
 
 
 ## Recursos úteis:
