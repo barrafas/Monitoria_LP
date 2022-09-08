@@ -2,10 +2,13 @@
 ===================================================================
 1 - Usando apenas o conceito de "máscaras" (usar uma array de boo-
 leanas para selecionar elementos de outra array), crie uma função
-que receba um argumento n e retorne uma array mxn com uma distribu-
-ição normal de média 7 e desvio padrão 2, com uma característica
-especial: os elementos da array devem ser, no máximo, 10, e no mí-
-nimo, 0.
+que receba um argumento m e n e retorne uma array mxn com valores
+gerados aleatoriamente.
+
+Você deve gerar uma array com uma distribuição normal de média 7 
+e desvio padrão 2, e após disso, você deve implementar um limite
+de valores: os elementos da array devem ser, no máximo, 10, e no mí-
+nimo, 0. 
 ===================================================================
 ''' 
 
