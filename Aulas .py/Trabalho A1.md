@@ -16,19 +16,19 @@ Selecionar uma banda ou artista e elaborar um dataset limpo e formatado com info
 Elaborar um módulo com funções para responder as perguntas de negócio abaixo:
 
 **Grupo de Perguntas 1:**
--1. Músicas mais ouvidas e músicas menos ouvidas por Álbum
--2. Músicas mais longas e músicas mais curtas por Álbum
--3. Músicas mais ouvidas e músicas menos ouvidas [em toda a história da banda ou artista]
--4. Músicas mais longas e músicas mais curtas [em toda a história da banda ou artista]
--5. Álbuns mais premiados [https://twiftnews.com/lifestyle/top-6-most-prestigious-music-awards/]
--6. Existe alguma relação entre a duração da música e sua popularidade?
+- 1. Músicas mais ouvidas e músicas menos ouvidas por Álbum
+- 2. Músicas mais longas e músicas mais curtas por Álbum
+- 3. Músicas mais ouvidas e músicas menos ouvidas [em toda a história da banda ou artista]
+- 4. Músicas mais longas e músicas mais curtas [em toda a história da banda ou artista]
+- 5. Álbuns mais premiados [https://twiftnews.com/lifestyle/top-6-most-prestigious-music-awards/]
+- 6. Existe alguma relação entre a duração da música e sua popularidade?
 **Grupo de Perguntas 2:**
--1. Quais são as palavras mais comuns nos títulos dos Álbuns?
--2. Quais são as palavras mais comuns nos títulos das músicas?
--3. Quais são as palavras mais comuns nas letras das músicas, por Álbum?
--4. Quais são as palavras mais comuns nas letras das músicas, em toda a discografia?
--5. O título de um álbum é tema recorrente nas letras?
--6. O título de uma música é tema recorrente nas letras?
+- 1. Quais são as palavras mais comuns nos títulos dos Álbuns?
+- 2. Quais são as palavras mais comuns nos títulos das músicas?
+- 3. Quais são as palavras mais comuns nas letras das músicas, por Álbum?
+- 4. Quais são as palavras mais comuns nas letras das músicas, em toda a discografia?
+- 5. O título de um álbum é tema recorrente nas letras?
+- 6. O título de uma música é tema recorrente nas letras?
 **Grupo de Perguntas 3:**
 Elaborar mais 3 perguntas sobre temas e características da discografia da banda.
 
