@@ -34,7 +34,7 @@ Elaborar um módulo com funções para responder as perguntas de negócio abaixo
 **Grupo de Perguntas 3:**
 Elaborar mais 3 perguntas sobre temas e características da discografia da banda.
 
-##Etapa 3.
+## Etapa 3.
 
 Elaborar visualizações para as respostas do Grupo de Perguntas 1. Por padrão, utilize os recursos do Pandas. A utilização de bibliotecas como o Seaborn pode ser recompensada com acréscimo de pontos.
 Utilize a biblioteca WordCloud [https://amueller.github.io/word_cloud/] para elaborar Tag Clouds de ao menos 3 respostas do Grupo de Perguntas 2.
