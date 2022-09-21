@@ -22,6 +22,7 @@ Elaborar um módulo com funções para responder as perguntas de negócio abaixo
 - 4. Músicas mais longas e músicas mais curtas [em toda a história da banda ou artista]
 - 5. Álbuns mais premiados [https://twiftnews.com/lifestyle/top-6-most-prestigious-music-awards/]
 - 6. Existe alguma relação entre a duração da música e sua popularidade?
+
 **Grupo de Perguntas 2:**
 - 1. Quais são as palavras mais comuns nos títulos dos Álbuns?
 - 2. Quais são as palavras mais comuns nos títulos das músicas?
@@ -29,6 +30,7 @@ Elaborar um módulo com funções para responder as perguntas de negócio abaixo
 - 4. Quais são as palavras mais comuns nas letras das músicas, em toda a discografia?
 - 5. O título de um álbum é tema recorrente nas letras?
 - 6. O título de uma música é tema recorrente nas letras?
+
 **Grupo de Perguntas 3:**
 Elaborar mais 3 perguntas sobre temas e características da discografia da banda.
 
