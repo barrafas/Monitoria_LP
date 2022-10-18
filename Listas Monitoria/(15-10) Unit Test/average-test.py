@@ -29,9 +29,12 @@ class MyTestCase(unittest.TestCase):
             average_scores(self.scores_dict)
 
     # teste se a entrada não é um dicionário
-    def test_average_zero(self):
+    def test_average_list(self):
         # Arrange
         self.list = list()
         # Assert
         with self.assertRaises(TypeError):
             average_scores(self.list)
+            
+if __name__ == "__main__":
+    unittest.main(verbosity = 2)

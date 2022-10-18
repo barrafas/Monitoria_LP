@@ -24,4 +24,5 @@ def divide(x, y):
 def exp(x,b):
 	"""Exponencial Function"""
 	
-	return b^x
+	return b**x
+

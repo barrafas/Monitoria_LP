@@ -6,7 +6,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = 21998765432
 		expected = 21998765432
 		#Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
         # Assert
 		self.assertAlmostEqual(expected, actual)
 
@@ -14,7 +14,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "21998765432"
 		expected = 21998765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 	
@@ -22,7 +22,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "(21) 99876-5432"
 		expected = 21998765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 
@@ -30,7 +30,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "99876-5432"
 		expected = 21998765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 
@@ -38,7 +38,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "+55 (21) 99876-5432"
 		expected = 21998765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 
@@ -46,7 +46,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "+55 (21) 99876-5432"
 		expected = 21998765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 
@@ -54,7 +54,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "(21) 9876-5432"
 		expected = 2198765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 
@@ -62,7 +62,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "+55 (21) 9876-5432"
 		expected = 2198765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 	
@@ -70,7 +70,7 @@ class MyTestCase(unittest.TestCase):
 		self.number = "+55 2198765432"
 		expected = 2198765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 
@@ -78,8 +78,11 @@ class MyTestCase(unittest.TestCase):
 		self.number = "+55 21 99876 5432"
 		expected = 21998765432
 		# Act
-		actual = number_phone_br(self.scores_dict)
+		actual = number_phone_br(self.number)
 		# Assert
 		self.assertAlmostEqual(expected, actual)
+        
+if __name__ == "__main__":
+    unittest.main(verbosity=2)
 	
 	
