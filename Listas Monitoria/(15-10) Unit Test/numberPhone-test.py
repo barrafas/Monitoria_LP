@@ -42,9 +42,9 @@ class MyTestCase(unittest.TestCase):
 		# Assert
 		self.assertAlmostEqual(expected, actual)
 
-	def test_string_international_symbols(self):
-		self.number = "+55 (21) 99876-5432"
-		expected = 21998765432
+	def test_number_no_cellphone(self):
+		self.number = 2198765432
+		expected = 2198765432
 		# Act
 		actual = number_phone_br(self.number)
 		# Assert
